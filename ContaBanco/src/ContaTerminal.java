@@ -16,8 +16,8 @@ public class ContaTerminal {
         System.out.println("Agora, por gentileza, informe o seu nome");
         String nome = scanner.next();
 
-        double saldo = 0.0;
-        System.out.println("Insira o valor de depósito inicial: ");
+        double saldo = 0.00;
+        System.out.println("Insira o valor de depósito inicial: \n");
         saldo = scanner.nextDouble();
         
 
